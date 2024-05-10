@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MusiQ Trivia Juego</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <h1 class="titulo">MusiQ!</h1>
+    
+    <button id="modo-color" class="toggle-btn"><span id="icono-modo">🌞</span></button>
+
+    <div id="seccion-bienvenida" class="centered">
+        <input type="text" id="nombre-jugador" placeholder="Ingresa tu nombre">
+        <button id="iniciar-juego">Iniciar Juego</button>
+    </div>
+
+    <div id="seccion-categoria" class="centered" style="display: none;">
+        <label for="categoria">Selecciona una categoría:</label>
+        <select id="categoria">
+            <option value="">-Selecciona la categoría-</option>
+            <option value="historia">Historia</option>
+            <option value="cultura">Cultura</option>
+            <option value="eventos">Eventos</option>
+        </select>
+        <button id="elegir-categoria">Elegir Categoría</button>
+        <button id="cancelar" style="background-color: #ff6347; margin-top: 10px;">Cancelar Juego</button>
+    </div>    
+
+    <div id="seccion-pregunta" class="centered" style="display: none;">
+        <p id="pregunta"></p>
+        <div id="opciones"></div>
+    </div>
+
+    <div id="seccion-resultado" class="centered" style="display: none;">
+        <p id="resultado"></p>
+        <button id="siguiente">Siguiente Pregunta</button>
+    </div>
+
+    <div id="mensaje-error" class="centered" style="display: none; color: red;"></div>
+
+    <script src="./js/main.js"></script>
+</body>
+</html>
