@@ -1,0 +1,368 @@
+[
+    {
+        "pregunta": "¿Quién es el líder de la banda británica Queen?",
+        "opciones": ["a) Freddie Mercury", "b) John Lennon", "c) Mick Jagger", "d) Paul McCartney"],
+        "respuestaCorrecta": "a) Freddie Mercury",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿En qué año se lanzó el álbum 'Thriller' de Michael Jackson?",
+        "opciones": ["a) 1979", "b) 1982", "c) 1984", "d) 1986"],
+        "respuestaCorrecta": "b) 1982",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿Quién fue el baterista de The Beatles?",
+        "opciones": ["a) Ringo Starr", "b) Keith Moon", "c) John Bonham", "d) Charlie Watts"],
+        "respuestaCorrecta": "a) Ringo Starr",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿Qué banda lanzó el álbum 'The Dark Side of the Moon'?",
+        "opciones": ["a) Led Zeppelin", "b) Pink Floyd", "c) The Rolling Stones", "d) The Who"],
+        "respuestaCorrecta": "b) Pink Floyd",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿Qué banda fue encabezada por David Byrne?",
+        "opciones": ["a) Talking Heads", "b) The Clash", "c) The Smiths", "d) Joy Division"],
+        "respuestaCorrecta": "a) Talking Heads",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿Quién es conocido como 'El Rey del Pop'?",
+        "opciones": ["a) Prince", "b) Michael Jackson", "c) Madonna", "d) Elvis Presley"],
+        "respuestaCorrecta": "b) Michael Jackson",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿Qué banda lanzó el álbum 'Abbey Road'?",
+        "opciones": ["a) The Rolling Stones", "b) The Beatles", "c) The Who", "d) The Kinks"],
+        "respuestaCorrecta": "b) The Beatles",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿Qué banda tenía a Kurt Cobain como su líder?",
+        "opciones": ["a) Pearl Jam", "b) Soundgarden", "c) Nirvana", "d) Alice in Chains"],
+        "respuestaCorrecta": "c) Nirvana",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿Quién fue el primer guitarrista principal de Metallica?",
+        "opciones": ["a) Kirk Hammett", "b) Dave Mustaine", "c) James Hetfield", "d) Cliff Burton"],
+        "respuestaCorrecta": "b) Dave Mustaine",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿Qué banda lanzó el álbum 'Back in Black'?",
+        "opciones": ["a) AC/DC", "b) Led Zeppelin", "c) Queen", "d) Aerosmith"],
+        "respuestaCorrecta": "a) AC/DC",
+        "categoria": "historia"
+    },
+    {
+        "pregunta": "¿Quién es considerado el Rey del Rock and Roll?",
+        "opciones": ["a) Bob Dylan", "b) Elvis Presley", "c) Chuck Berry", "d) Buddy Holly"],
+        "respuestaCorrecta": "b) Elvis Presley",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Qué artista es conocido como 'The Boss'?",
+        "opciones": ["a) Bruce Springsteen", "b) Bob Dylan", "c) Neil Young", "d) Paul Simon"],
+        "respuestaCorrecta": "a) Bruce Springsteen",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Cuál es el nombre real de la cantante Lady Gaga?",
+        "opciones": ["a) Stefani Joanne Angelina Germanotta", "b) Katheryn Elizabeth Hudson", "c) Robyn Rihanna Fenty", "d) Alecia Beth Moore"],
+        "respuestaCorrecta": "a) Stefani Joanne Angelina Germanotta",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Quién es conocido como 'El Rey del Pop'?",
+        "opciones": ["a) Prince", "b) Michael Jackson", "c) Madonna", "d) Elvis Presley"],
+        "respuestaCorrecta": "b) Michael Jackson",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Qué banda lanzó el álbum 'Abbey Road'?",
+        "opciones": ["a) The Rolling Stones", "b) The Beatles", "c) The Who", "d) The Kinks"],
+        "respuestaCorrecta": "b) The Beatles",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Qué banda tenía a Kurt Cobain como su líder?",
+        "opciones": ["a) Pearl Jam", "b) Soundgarden", "c) Nirvana", "d) Alice in Chains"],
+        "respuestaCorrecta": "c) Nirvana",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Qué artista lanzó la canción 'Rolling in the Deep'?",
+        "opciones": ["a) Adele", "b) Beyoncé", "c) Rihanna", "d) Alicia Keys"],
+        "respuestaCorrecta": "a) Adele",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Quién lanzó la canción 'Thriller'?",
+        "opciones": ["a) Prince", "b) Madonna", "c) Michael Jackson", "d) Whitney Houston"],
+        "respuestaCorrecta": "c) Michael Jackson",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Qué grupo lanzó la canción 'Wannabe'?",
+        "opciones": ["a) TLC", "b) Destiny's Child", "c) Spice Girls", "d) All Saints"],
+        "respuestaCorrecta": "c) Spice Girls",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Qué artista lanzó la canción 'Like a Prayer'?",
+        "opciones": ["a) Madonna", "b) Janet Jackson", "c) Cyndi Lauper", "d) Paula Abdul"],
+        "respuestaCorrecta": "a) Madonna",
+        "categoria": "cultura"
+    },
+    {
+        "pregunta": "¿Cuál es el festival de música más grande del mundo, que se celebra anualmente en California?",
+        "opciones": ["a) Woodstock", "b) Lollapalooza", "c) Glastonbury", "d) Coachella"],
+        "respuestaCorrecta": "d) Coachella",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿En qué ciudad se celebró el primer Woodstock en 1969?",
+        "opciones": ["a) Bethel, Nueva York", "b) Woodstock, Nueva York", "c) San Francisco, California", "d) Monterey, California"],
+        "respuestaCorrecta": "a) Bethel, Nueva York",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿Quién fue el artista principal del espectáculo de medio tiempo del Super Bowl en 2020?",
+        "opciones": ["a) Beyoncé", "b) Lady Gaga", "c) Shakira y Jennifer Lopez", "d) Justin Timberlake"],
+        "respuestaCorrecta": "c) Shakira y Jennifer Lopez",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿En qué año se lanzó el festival de Glastonbury por primera vez?",
+        "opciones": ["a) 1969", "b) 1970", "c) 1971", "d) 1972"],
+        "respuestaCorrecta": "b) 1970",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿Qué festival se celebra anualmente en Chicago desde 1991?",
+        "opciones": ["a) Bonnaroo", "b) Lollapalooza", "c) Coachella", "d) Burning Man"],
+        "respuestaCorrecta": "b) Lollapalooza",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿Qué festival es conocido por sus instalaciones de arte en el desierto de Nevada?",
+        "opciones": ["a) Coachella", "b) Burning Man", "c) Bonnaroo", "d) Outside Lands"],
+        "respuestaCorrecta": "b) Burning Man",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿Qué festival de música se celebra en el Parque Golden Gate de San Francisco?",
+        "opciones": ["a) Coachella", "b) Outside Lands", "c) Bonnaroo", "d) Lollapalooza"],
+        "respuestaCorrecta": "b) Outside Lands",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿Quién fue el artista principal del festival de Glastonbury en 2019?",
+        "opciones": ["a) Ed Sheeran", "b) Beyoncé", "c) The Rolling Stones", "d) Stormzy"],
+        "respuestaCorrecta": "d) Stormzy",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿Qué festival de música se celebra en Indio, California?",
+        "opciones": ["a) Coachella", "b) Lollapalooza", "c) Bonnaroo", "d) Glastonbury"],
+        "respuestaCorrecta": "a) Coachella",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿Qué festival se celebra en Tennessee y es conocido por su enfoque en la música y el arte?",
+        "opciones": ["a) Bonnaroo", "b) Lollapalooza", "c) Coachella", "d) Burning Man"],
+        "respuestaCorrecta": "a) Bonnaroo",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿Qué festival de música se celebra en el parque Grant de Chicago?",
+        "opciones": ["a) Bonnaroo", "b) Lollapalooza", "c) Coachella", "d) Glastonbury"],
+        "respuestaCorrecta": "b) Lollapalooza",
+        "categoria": "eventos"
+    },
+    {
+        "pregunta": "¿Qué instrumento es conocido como 'el rey de los instrumentos'?",
+        "opciones": ["a) Piano", "b) Violín", "c) Guitarra", "d) Trompeta"],
+        "respuestaCorrecta": "a) Piano",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué músico es famoso por su virtuosismo en la guitarra eléctrica?",
+        "opciones": ["a) Jimi Hendrix", "b) Miles Davis", "c) John Coltrane", "d) Louis Armstrong"],
+        "respuestaCorrecta": "a) Jimi Hendrix",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué instrumento es conocido como 'el rey del jazz'?",
+        "opciones": ["a) Saxofón", "b) Trompeta", "c) Piano", "d) Contrabajo"],
+        "respuestaCorrecta": "b) Trompeta",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué instrumento es conocido como 'la voz humana'?",
+        "opciones": ["a) Violín", "b) Clarinete", "c) Flauta", "d) Viola"],
+        "respuestaCorrecta": "a) Violín",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué instrumento de percusión se utiliza en la música clásica y popular?",
+        "opciones": ["a) Timpani", "b) Batería", "c) Xilófono", "d) Marimba"],
+        "respuestaCorrecta": "b) Batería",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué instrumento de viento es esencial en una banda de jazz?",
+        "opciones": ["a) Saxofón", "b) Trompeta", "c) Trombón", "d) Clarinete"],
+        "respuestaCorrecta": "a) Saxofón",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué instrumento de cuerda se toca con un arco?",
+        "opciones": ["a) Violín", "b) Guitarra", "c) Arpa", "d) Mandolina"],
+        "respuestaCorrecta": "a) Violín",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué instrumento de teclado es común en la música rock?",
+        "opciones": ["a) Piano", "b) Órgano", "c) Clavecín", "d) Melódica"],
+        "respuestaCorrecta": "b) Órgano",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué instrumento de cuerda se utiliza en la música country?",
+        "opciones": ["a) Banjo", "b) Violín", "c) Guitarra", "d) Mandolina"],
+        "respuestaCorrecta": "a) Banjo",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué instrumento de viento es famoso en la música clásica y el jazz?",
+        "opciones": ["a) Clarinete", "b) Trompeta", "c) Saxofón", "d) Flauta"],
+        "respuestaCorrecta": "c) Saxofón",
+        "categoria": "instrumentos"
+    },
+    {
+        "pregunta": "¿Qué álbum de Pink Floyd presenta un prisma en la portada?",
+        "opciones": ["a) The Wall", "b) Wish You Were Here", "c) The Dark Side of the Moon", "d) Animals"],
+        "respuestaCorrecta": "c) The Dark Side of the Moon",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Qué álbum de The Beatles es conocido por su portada con los miembros de la banda cruzando una calle?",
+        "opciones": ["a) Revolver", "b) Rubber Soul", "c) Abbey Road", "d) Let It Be"],
+        "respuestaCorrecta": "c) Abbey Road",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Qué álbum de Michael Jackson es uno de los más vendidos de todos los tiempos?",
+        "opciones": ["a) Off the Wall", "b) Bad", "c) Dangerous", "d) Thriller"],
+        "respuestaCorrecta": "d) Thriller",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Qué álbum de Nirvana incluye la canción 'Smells Like Teen Spirit'?",
+        "opciones": ["a) Bleach", "b) In Utero", "c) Nevermind", "d) MTV Unplugged in New York"],
+        "respuestaCorrecta": "c) Nevermind",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Qué álbum de Queen presenta la canción 'Bohemian Rhapsody'?",
+        "opciones": ["a) A Night at the Opera", "b) News of the World", "c) Sheer Heart Attack", "d) The Game"],
+        "respuestaCorrecta": "a) A Night at the Opera",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Qué álbum de The Rolling Stones es conocido por la lengua en la portada?",
+        "opciones": ["a) Sticky Fingers", "b) Exile on Main St.", "c) Some Girls", "d) Let It Bleed"],
+        "respuestaCorrecta": "a) Sticky Fingers",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Qué álbum de Radiohead incluye la canción 'Creep'?",
+        "opciones": ["a) The Bends", "b) OK Computer", "c) Pablo Honey", "d) Kid A"],
+        "respuestaCorrecta": "c) Pablo Honey",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Qué álbum de Prince es conocido por su portada morada?",
+        "opciones": ["a) 1999", "b) Purple Rain", "c) Sign 'O' the Times", "d) Controversy"],
+        "respuestaCorrecta": "b) Purple Rain",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Qué álbum de David Bowie presenta una portada con un rayo en su rostro?",
+        "opciones": ["a) Hunky Dory", "b) Ziggy Stardust", "c) Aladdin Sane", "d) Low"],
+        "respuestaCorrecta": "c) Aladdin Sane",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Qué álbum de Fleetwood Mac incluye la canción 'Go Your Own Way'?",
+        "opciones": ["a) Tusk", "b) Rumours", "c) Mirage", "d) Tango in the Night"],
+        "respuestaCorrecta": "b) Rumours",
+        "categoria": "albumes icónicos"
+    },
+    {
+        "pregunta": "¿Quién ganó el premio Grammy al Álbum del Año en 2020?",
+        "opciones": ["a) Billie Eilish", "b) Lizzo", "c) Ariana Grande", "d) Taylor Swift"],
+        "respuestaCorrecta": "a) Billie Eilish",
+        "categoria": "premios"
+    },
+    {
+        "pregunta": "¿Qué álbum ganó el premio Grammy al Álbum del Año en 1977?",
+        "opciones": ["a) Hotel California - Eagles", "b) Rumours - Fleetwood Mac", "c) Aja - Steely Dan", "d) Songs in the Key of Life - Stevie Wonder"],
+        "respuestaCorrecta": "d) Songs in the Key of Life - Stevie Wonder",
+        "categoria": "premios"
+    },
+    {
+        "pregunta": "¿Quién ganó el primer premio MTV Video Music Award al Video del Año en 1984?",
+        "opciones": ["a) Michael Jackson - 'Thriller'", "b) The Cars - 'You Might Think'", "c) Madonna - 'Like a Virgin'", "d) Cyndi Lauper - 'Girls Just Want to Have Fun'"],
+        "respuestaCorrecta": "b) The Cars - 'You Might Think'",
+        "categoria": "premios"
+    },
+    {
+        "pregunta": "¿Qué artista ha ganado más premios Grammy en la historia?",
+        "opciones": ["a) Quincy Jones", "b) Beyoncé", "c) Stevie Wonder", "d) Alison Krauss"],
+        "respuestaCorrecta": "b) Beyoncé",
+        "categoria": "premios"
+    },
+    {
+        "pregunta": "¿Qué artista ganó el premio Grammy al Mejor Nuevo Artista en 2019?",
+        "opciones": ["a) Billie Eilish", "b) Dua Lipa", "c) Lizzo", "d) Megan Thee Stallion"],
+        "respuestaCorrecta": "b) Dua Lipa",
+        "categoria": "premios"
+    },
+    {
+        "pregunta": "¿Qué banda ganó el premio Grammy al Álbum del Año por 'How to Dismantle an Atomic Bomb'?",
+        "opciones": ["a) Coldplay", "b) U2", "c) Radiohead", "d) Foo Fighters"],
+        "respuestaCorrecta": "b) U2",
+        "categoria": "premios"
+    },
+    {
+        "pregunta": "¿Qué álbum de Taylor Swift ganó el premio Grammy al Álbum del Año en 2016?",
+        "opciones": ["a) Red", "b) 1989", "c) Fearless", "d) Speak Now"],
+        "respuestaCorrecta": "b) 1989",
+        "categoria": "premios"
+    },
+    {
+        "pregunta": "¿Qué álbum de Adele ganó el premio Grammy al Álbum del Año en 2012?",
+        "opciones": ["a) 19", "b) 21", "c) 25", "d) 30"],
+        "respuestaCorrecta": "b) 21",
+        "categoria": "premios"
+    },
+    {
+        "pregunta": "¿Quién ganó el premio Grammy al Mejor Álbum de Rap en 2013?",
+        "opciones": ["a) Drake", "b) Jay-Z", "c) Kanye West", "d) Kendrick Lamar"],
+        "respuestaCorrecta": "c) Kanye West",
+        "categoria": "premios"
+    },
+    {
+        "pregunta": "¿Qué artista ganó el premio Grammy al Álbum del Año en 2021?",
+        "opciones": ["a) Taylor Swift", "b) Billie Eilish", "c) Dua Lipa", "d) Post Malone"],
+        "respuestaCorrecta": "a) Taylor Swift",
+        "categoria": "premios"
+    }
+]

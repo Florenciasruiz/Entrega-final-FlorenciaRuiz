@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MusiQ Trivia Juego</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <h1 class="titulo">MusiQ!</h1>
@@ -19,10 +19,13 @@
     <div id="seccion-categoria" class="centered" style="display: none;">
         <label for="categoria">Selecciona una categoría:</label>
         <select id="categoria">
-            <option value="">-Selecciona la categoría-</option>
+            <option value="">--Selecciona--</option>
             <option value="historia">Historia</option>
             <option value="cultura">Cultura</option>
             <option value="eventos">Eventos</option>
+            <option value="instrumentos">Instrumentos</option>
+            <option value="albumes icónicos">Albumes icónicos</option>
+            <option value="premios">Premios</option>
         </select>
         <button id="elegir-categoria">Elegir Categoría</button>
         <button id="cancelar" style="background-color: #ff6347; margin-top: 10px;">Cancelar Juego</button>
@@ -35,11 +38,11 @@
 
     <div id="seccion-resultado" class="centered" style="display: none;">
         <p id="resultado"></p>
-        <button id="siguiente">Siguiente Pregunta</button>
     </div>
 
     <div id="mensaje-error" class="centered" style="display: none; color: red;"></div>
 
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script src="./js/main.js"></script>
 </body>
 </html>
